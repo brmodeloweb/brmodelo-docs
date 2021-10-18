@@ -34,7 +34,13 @@
 
 ## Incluir elementos no canvas
 
-_TODO: Add your instructions here or link to a usage.md page._
+1. Arraste o elemento para área de modelagem
+
+<div align="center">
+    <img src="imgs/dragging1.png" 
+        alt="Criar modelagem"
+        title="Criar modelagem">
+</div>
 
 <br>
 
