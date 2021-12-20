@@ -16,7 +16,16 @@ Nessa sessãoo você encontrará mais detalhes sobre as ações básicas do canv
 
 ## Renomeando elementos
 
-> Documentação pendente
+1. Vá para a área de trabalho da modelagem que deseja editar
+1. Selecione o elemento que deseja renomear
+1. Vá até a barra de propriedades na extremidade direita da sua tela
+1. Altere o valor do campo **Nome** para o valor desejado
+1. O novo nome do seu elemento irá refletir no elemento no canvas
+
+<video controls style="width: 100%; max-width: 900px;">
+	<source src="canvas-usage/assets/renomeando-elementos.mp4" type="video/mp4">
+	Desculpa, seu navegador suporta esse formato de vídeo.
+</video>
 
 ## Alterando informações de um elemento
 
