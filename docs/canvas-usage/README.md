@@ -11,7 +11,7 @@ Nessa sessãoo você encontrará mais detalhes sobre as ações básicas do canv
 
 <video controls style="width: 100%; max-width: 900px;">
 	<source src="canvas-usage/assets/adicionando-elementos.mp4" type="video/mp4">
-	Desculpa, seu navegador suporta esse formato de vídeo.
+	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ## Renomeando elementos
@@ -24,7 +24,7 @@ Nessa sessãoo você encontrará mais detalhes sobre as ações básicas do canv
 
 <video controls style="width: 100%; max-width: 900px;">
 	<source src="canvas-usage/assets/renomeando-elementos.mp4" type="video/mp4">
-	Desculpa, seu navegador suporta esse formato de vídeo.
+	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ## Alterando informações de um elemento

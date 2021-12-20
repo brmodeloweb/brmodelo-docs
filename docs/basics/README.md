@@ -16,7 +16,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 
 <video controls style="width: 100%; max-width: 900px;">
 	<source src="basics/assets/criar-um-novo-modelo.mp4" type="video/mp4">
-	Desculpa, seu navegador suporta esse formato de vídeo.
+	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ## Duplicar um modelo
@@ -28,7 +28,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 
 <video controls style="width: 100%; max-width: 900px;">
 	<source src="basics/assets/duplicar-um-modelo.mp4" type="video/mp4">
-	Desculpa, seu navegador suporta esse formato de vídeo.
+	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ## Renomear um modelo
@@ -40,7 +40,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 
 <video controls style="width: 100%; max-width: 900px;">
 	<source src="basics/assets/renomear-um-modelo.mp4" type="video/mp4">
-	Desculpa, seu navegador suporta esse formato de vídeo.
+	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ## Excluir um modelo
@@ -54,7 +54,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 
 <video controls style="width: 100%; max-width: 900px;">
 	<source src="basics/assets/renomear-um-modelo.mp4" type="video/mp4">
-	Desculpa, seu navegador suporta esse formato de vídeo.
+	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ## Importar um modelo
