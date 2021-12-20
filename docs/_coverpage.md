@@ -1,19 +1,7 @@
-<img src="imgs/brmodelo-logo-square.svg" height="100px"/>
+<img src="assets/br-modelo-logo-text.svg" height="200px"/>
+<h1 id="cover-heading">BR Modelo Web - Documentação de uso</h1>
 
-<h1 id="cover-heading">
-  Tutorial brmodeloWeb
-</h1>
+[BRModeloWeb.com](https://www.brmodeloweb.com)
+[Documentação](#bem-vindo-ao-br-modelo-web)
 
-> How to build a markdown-based docs site using DocsifyJS and GH Pages
-
-- :nut_and_bolt: Modelagem conceitual
-- :hourglass_flowing_sand: Modelagem lógica
-- :open_file_folder: Esquema físico
-- :sparkles: Conversão entre modelos
-- :pushpin: Exportação
-- :cloud: Armazenamento dos modelos em nuvem
-
-[GitHub](https://github.com/brmodeloweb/brmodelo-app)
-[Learn about Docsify](#docsifyjs-tutorial)
-
-![color](#1dcc7d)
+![color](#e7e7e7)
