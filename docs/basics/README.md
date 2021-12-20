@@ -4,8 +4,6 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 
 ## Criar um novo modelo
 
-![Criar um novo modelo](assets/criar-um-novo-modelo.mp4)
-
 1. Vá para a tela de listagem de modelos
 1. Na parte superior direita da tela, clique no botão **Nova modelagem**
 1. Uma modal se abrirá no centro da tela
