@@ -9,7 +9,7 @@
 - [Usando o Canvas](canvas-usage/README.md#usando-o-canvas)
 	- [Adicionando elementos](canvas-usage/README.md#adicionando-elementos)
 	- [Removendo elementos](canvas-usage/README.md#removendo-elementos)
-	- [Alerando informações de um elemento](canvas-usage/README.md#alterand-informacoes-de-um-elemento)
+	- [Alterando informações de um elemento](canvas-usage/README.md#alterand-informacoes-de-um-elemento)
 	- [Conectando elements](canvas-usage/README.md#conectando-elementos)
 	- [Desfazer ou refazer ações](canvas-usage/README.md#desfazer-ou-refazer-acoes)
 	- [Utilizando o zoom](canvas-usage/README.md#utilizando-o-zoom)
