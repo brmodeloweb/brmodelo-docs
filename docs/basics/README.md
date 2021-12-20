@@ -56,3 +56,11 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 	<source src="basics/assets/renomear-um-modelo.mp4" type="video/mp4">
 	Desculpa, seu navegador suporta esse formato de vídeo.
 </video>
+
+## Importar um modelo
+
+> Essa funcionalidade ainda está em desenvolvimento
+
+## Exportar um modelo
+
+> Essa funcionalidade ainda está em desenvolvimento
