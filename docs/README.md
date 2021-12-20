@@ -1,78 +1,19 @@
-<!-- TODO: Update with your values. -->
-# Tutoriais brmodeloweb
-> Starter template for a Markdown-based docs site
+# Bem vindo ao BR Modelo Web
 
- <!-- TODO: Update repo links and change license type if needed. -->
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license)
-[![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
+Olá! Bem vindo a documentaçõa de uso do [BR Modelo Web](https://www.brmodeloweb.com). Aqui você vai encontrar uma coletânea de conteúdo com detalhes de como executar as mais variadas ações dentro do _BR_.
 
 
-<!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
+?> O [BR Modelo Web](https://www.brmodeloweb.com) é um projeto **Open Source** para modelagem de banco de dados entidade-relacionamento mantido por um time incrível de voluntários que doa tempo, esforço e conhecimento para manter e aprimorar o produto.
 
-## Criar modelagem conceitual
+is a free open source entity-relationship database modeling tool. We try to make learning database modeling simple and accessible for everyone. 
 
-1. Pressione o botão `NOVA MODELAGEM`
+Por favor, tenha em mente que o [BR Modelo Web](https://www.brmodeloweb.com) assim como essa documentação são conteúdos vivos que estão constantemente crescendo e sofrendo alterações. Por conta disso talvez você pode se deparar com partes do conteúdo desatualizado ou mesmo não encontrar a informação que precisa.
 
-<div align="center">
-    <img src="imgs/createmodel1.png" 
-        alt="Criar modelagem"
-        title="Criar modelagem">
-</div>
+Como usuário do [BR Modelo Web](https://www.brmodeloweb.com) você pode colaborar identificando essas falhas e reportando para o time criando uma [issue no nosso repositório do GitHub](https://github.com/brmodeloweb/brmodelo-docs/issues/new). Mas não só isso. Se você souber como criar um _pull request_, você está mais do que convidado para colaborar corrigindo ou adicionando conteúdo aqui
 
-2. Preencha o campo `Título` 
-3. Selecione a tipo `Conceitual` 
-4. Pressione o botão `SALVAR` 
+Esperamos que você encontre o que precisa aqui!
 
-<div align="center">
-    <img src="imgs/createmodel2.png" 
-        alt="Criar modelagem"
-        title="Criar modelagem">
-</div>
+---
 
-<br>
-
-## Incluir elementos no canvas
-
-1. Arraste o elemento para área de modelagem
-
-<div align="center">
-    <img src="imgs/dragging1.png" 
-        alt="Criar modelagem"
-        title="Criar modelagem">
-</div>
-
-<br>
-
-## Como conectar elementos
-
-_TODO: Add your instructions here or link to a usage.md page._
-
-<br>
-
-## Alterar nome dos elementos
-
-_TODO: Add your instructions here or link to a usage.md page._
-
-<br>
-
-## Alterar nome dos elementos
-
-_TODO: Add your instructions here or link to a usage.md page._
-
-<br>
-
-
-## Demo
-
-This section showcases some functionality of Docsify.
-
-```bash
-echo "Hello, World"
-```
-
-> Sample quote
-
-?> Sample hint
-
-!> Sample warning 
+Atenciosamente,  
+[Milton](https://github.com/miltonbsn), [Id](https://github.com/idmarjr) e todo o [time de contribuidores BR Modelo Web](https://github.com/brmodeloweb/brmodelo-app#contributors-).
