@@ -19,3 +19,15 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 	Desculpa, seu navegador suporta esse formato de vídeo.
 </video>
 
+## Duplicar um modelo
+
+1. Vá para a tela de listagem de modelos
+1. Com o mouse sobre o item que deseja duplicar, selecione a opção **Duplicar** na extremidade direita do item
+1. Ao clicar, uma modal se abrirá. Caso deseje, altere o nome do novo modelo e clique em salvar
+1. Perceba que seu novo modelo agora aparecerá ao fim da lista de modelos
+
+<video controls style="width: 100%; max-width: 900px;">
+	<source src="basics/assets/duplicar-um-modelo.mp4" type="video/mp4">
+	Desculpa, seu navegador suporta esse formato de vídeo.
+</video>
+
