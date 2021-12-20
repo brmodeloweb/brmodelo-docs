@@ -1,6 +1,6 @@
 ## Usando o canvas
 
-> Documentação pendente
+Nessa sessãoo você encontrará mais detalhes sobre as ações básicas do canvas. O Canvas é a área de trabalho onde você criará suas modelagens, sejam elas lógicas ou conceituais.
 
 ## Adicionando elementos
 
