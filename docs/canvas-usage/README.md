@@ -9,7 +9,7 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 1. Clique, segure e arraste o elemento para dentro do canvas
 1. Ao soltar o botão do mouse o elemento será adicionado
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-usage/assets/adicionando-elementos.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -22,7 +22,7 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 1. Altere o valor do campo **Nome** para o valor desejado
 1. O novo nome do seu elemento irá refletir no elemento no canvas
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-usage/assets/renomeando-elementos.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -35,7 +35,7 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 1. Perceba que cada elemento tem diferentes propriedades e ações específicas
 1. Ao clicar em um espaço vazio no canvas as informações no painel de propriedades desaparecerá
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-usage/assets/alterando-informações-de-um-elemento.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -49,21 +49,21 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 1. Perceba que a borda do elemento de destino ficará em destaque
 1. Ao soltar o mouse, os elementos se conectarão
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-usage/assets/conectando-elementos.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ?> Nem todos os elementos podem ser conectados uns aos outros. Nesse caso, ao tentar conectar os elementos, a ligação não será criada.
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-usage/assets/conectando-elementos-2.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
 ?> Em alguns casos, para possibilitar a conexão, um elemento intermediário será criado.
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-usage/assets/conectando-elementos-3.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -75,7 +75,7 @@ Existem duas maneiras de desfazer ou refazer ações no _BR Modelo Web_:
 1. Usando os atalhos na barra utilidades
 2. Usando os atalhos de teclado
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-usage/assets/desfazer-ou-refazer-acoes.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>

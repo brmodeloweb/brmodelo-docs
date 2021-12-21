@@ -9,7 +9,7 @@ Você pode aumentar ou diminuir o zoom de duas formas:
 1. Usando os atalhos na barra utilidades
 1. Usando os atalhos de teclado
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-navigation/assets/utilizando-o-zoom.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -27,7 +27,7 @@ Você pode aumentar ou diminuir o zoom de duas formas:
 1. Ao aproximar o elemento do limite do canvas ele automaticamente dobrará seu tamanho na direção desejada.
 1. Caso você mova um elemento distante para próximo dos demais, o canvas automaticamente diminuirá seu tamanho
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-navigation/assets/expandindo-o-canvas.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -39,7 +39,7 @@ Conforme seus modelos aumentem de tamanho e mais espaço no canvas será necess�
 1. Usar o scroll do seu mouse ou trackpad
 1. Segurar `barra de espaço` no seu teclado e com o cursor do mouse, clicar e arrastar na direção desejada
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="canvas-navigation/assets/movendo-livremente-pelo-canvas.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>

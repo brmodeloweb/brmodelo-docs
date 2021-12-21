@@ -12,7 +12,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 1. Clique no botão **Salvar**
 1. Você será automaticamente direcionado para uma nova tela, a área de trabalho de seu novo documento
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="basics/assets/criar-um-novo-modelo.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -24,7 +24,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 1. Ao clicar, uma modal se abrirá. Caso deseje, altere o nome do novo modelo e clique em salvar
 1. Perceba que seu novo modelo agora aparecerá ao fim da lista de modelos
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="basics/assets/duplicar-um-modelo.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -36,7 +36,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 1. Ao clicar, uma modal se abrirá. Altere o nome do modelo e clique em salvar
 1. Perceba que o modelo agora tem o novo nome escolhido por você
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="basics/assets/renomear-um-modelo.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
@@ -50,7 +50,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 1. Ao clicar, uma modal de confirmação se abrirá. Clique em **Excluir**
 1. A modal se fechará altomaticamente e o modelo selecionado já não estará mais visível na lista
 
-<video controls style="width: 100%; max-width: 900px;">
+<video class="video-player" controls>
 	<source src="basics/assets/renomear-um-modelo.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
