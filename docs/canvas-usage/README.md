@@ -82,9 +82,9 @@ Existem duas maneiras de desfazer ou refazer ações no _BR Modelo Web_:
 
 | Sistema Operacional | Desfazer ação | Refazer ação |
 | ------------------- | ------------- | ------------ |
-| **MacOS** 			  | `⌘` + `z` 	  | `⌘` + `x` 	 |
-| **Windows**			  | `ctrl` + `z`  | `ctrl` + `x` |
-| **Linux** 			  | `ctrl` + `z`  | `ctrl` + `x` |
+| **MacOS** 		  | `⌘` + `z` 	  | `⌘` + `x` 	 |
+| **Windows**		  | `ctrl` + `z`  | `ctrl` + `x` |
+| **Linux** 		  | `ctrl` + `z`  | `ctrl` + `x` |
 
 
 ## Utilizando o zoom
