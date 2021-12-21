@@ -68,6 +68,28 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
+## Navegando pelo Canvas
+
+O canvas é sua área de trabalho e para acomodar modelagems mais complexas você precisa ter flexibilidade de expandi-lo e navegar através dele. Abaixo você encontra alguns exemplos de como executar essas ações.
+
+### Utilizando o zoom
+
+Você pode aumentar ou diminuir o zoom de duas formas:
+
+1. Usando os atalhos na barra utilidades
+1. Usando os atalhos de teclado
+
+<video controls style="width: 100%; max-width: 900px;">
+<source src="canvas-usage/assets/utilizando-o-zoom.mp4" type="video/mp4">
+Desculpe, seu navegador não suporta esse formato de vídeo.
+</video>
+
+| Ação 			  | Atalho 	  |
+| --------------- | --------- |
+| Aumentar o zoom | `z` + `+` |
+| Diminuir o zoom | `z` + `-` |
+| Zoom 100% 	  | `z` + `0` |
+
 ## Desfazer ou refazer ações
 
 Existem duas maneiras de desfazer ou refazer ações no _BR Modelo Web_:
