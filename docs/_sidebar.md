@@ -1,4 +1,4 @@
-- [Bem vindo](/)
+- [Bem vindo à documentação do BR Modelo Web](/)
 - [O Básico](basics/README.md)
 	- [Criar um novo modelo](basics/README.md#criar-um-novo-modelo)
 	- [Duplicar um modelo](basics/README.md#duplicar-um-modelo)
