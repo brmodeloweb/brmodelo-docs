@@ -102,6 +102,18 @@ Você pode aumentar ou diminuir o zoom de duas formas:
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
+### Movendo livremente pelo canvas
+
+Conforme seus modelos aumentem de tamanho e mais espaço no canvas será necessário, surge também a demanda para navegar livremente. Pra isso você tem duas possibilidaes:
+
+1. Usar o scroll do seu mouse ou trackpad
+1. Segurar `barra de espaço` no seu teclado e com o cursor do mouse, clicar e arrastar na direção desejada
+
+<video controls style="width: 100%; max-width: 900px;">
+	<source src="canvas-usage/assets/movendo-livremente-pelo-canvas.mp4" type="video/mp4">
+	Desculpe, seu navegador não suporta esse formato de vídeo.
+</video>
+
 ## Desfazer ou refazer ações
 
 Existem duas maneiras de desfazer ou refazer ações no _BR Modelo Web_:
