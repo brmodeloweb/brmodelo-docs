@@ -85,8 +85,3 @@ Existem duas maneiras de desfazer ou refazer ações no _BR Modelo Web_:
 | **MacOS** 		  | `⌘` + `z` 	  | `⌘` + `x` 	 |
 | **Windows**		  | `ctrl` + `z`  | `ctrl` + `x` |
 | **Linux** 		  | `ctrl` + `z`  | `ctrl` + `x` |
-
-
-## Utilizando o zoom
-
-> Documentação pendente
