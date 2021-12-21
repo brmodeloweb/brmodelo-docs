@@ -68,9 +68,24 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
-## Desfazer ou refazer ação
+## Desfazer ou refazer ações
 
-> Documentação pendente
+Existem duas maneiras de desfazer ou refazer ações no _BR Modelo Web_:
+
+1. Usando os atalhos na barra utilidades
+2. Usando os atalhos de teclado
+
+<video controls style="width: 100%; max-width: 900px;">
+	<source src="canvas-usage/assets/desfazer-ou-refazer-ações.mp4" type="video/mp4">
+	Desculpe, seu navegador não suporta esse formato de vídeo.
+</video>
+
+| Sistema Operacional | Desfazer ação | Refazer ação |
+| ------------------- | ------------- | ------------ |
+| **MacOS** 			  | `⌘` + `z` 	  | `⌘` + `x` 	 |
+| **Windows**			  | `ctrl` + `z`  | `ctrl` + `x` |
+| **Linux** 			  | `ctrl` + `z`  | `ctrl` + `x` |
+
 
 ## Utilizando o zoom
 
