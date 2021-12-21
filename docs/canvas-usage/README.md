@@ -122,7 +122,7 @@ Existem duas maneiras de desfazer ou refazer ações no _BR Modelo Web_:
 2. Usando os atalhos de teclado
 
 <video controls style="width: 100%; max-width: 900px;">
-	<source src="canvas-usage/assets/desfazer-ou-refazer-ações.mp4" type="video/mp4">
+	<source src="canvas-usage/assets/desfazer-ou-refazer-acoes.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
