@@ -68,7 +68,7 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
-## Navegando pelo Canvas
+## Navegando pelo canvas
 
 O canvas é sua área de trabalho e para acomodar modelagems mais complexas você precisa ter flexibilidade de expandi-lo e navegar através dele. Abaixo você encontra alguns exemplos de como executar essas ações.
 
