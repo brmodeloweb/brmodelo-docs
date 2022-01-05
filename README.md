@@ -1,5 +1,7 @@
 # BR Modelo Web documentation
 
+![BR Modelo Docs website](docs/assets/br-modelo-docs-preview.png)
+
 This repository holds the oficial usage documentation of [BR Modelo Web](https://www.brmodeloweb.com) a open source web based tool to create database modeling.  
 
 ## Contribution
