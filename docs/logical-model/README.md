@@ -2,6 +2,8 @@
 
 Geralmente, essa etapa é resultado da conversão de uma modelagem conceitual, porém, é possível iniciar o projeto de BD, diretamente, pelo projeto lógico, especialmente quando o projetista possui o conhecimento conceitual do projeto.
 
+?> A criação de _views_ e algumas _constraints_ estão apenas disponíveis no ambiente de [Stage](https://brmodelo-stage.herokuapp.com/#!/).
+
 ## Inclusão de _Constraints_
 
 As _constraints_ são usadas para especificar regras para os dados em uma tabela, garantindo a precisão e confiabilidade da informação. Caso ocorra qualquer violação entre a restrição e a execução de determinada ação, a ação é abortada.
