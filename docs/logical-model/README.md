@@ -70,3 +70,12 @@ Quando a criação da visão utiliza mais de uma tabela base, é necessário inf
 	<source src="logical-model/assets/joins.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
+
+## Conversão para projeto físico
+
+É possível gerar um _script_ SQL após a criação da modelagem lógica, basta clicar no ícone e irá abrir um modal com o projeto físico compatível com o SGBD MySQL. Nesse momento as informações podem ser editadas, por exemplo, incluindo a quantidade correta de cada campo _varchar_ ou _char_.
+
+<video class="video-player" controls>
+	<source src="logical-model/assets/projeto-fisico.mp4" type="video/mp4">
+	Desculpe, seu navegador não suporta esse formato de vídeo.
+</video>
