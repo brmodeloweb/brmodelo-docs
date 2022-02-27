@@ -1,19 +1,19 @@
 # Modelagem lógica
 
-A modelagem do tipo lógica representa a estrutura de um _banco de dados_ (BD) em nível de abstração visto pelo usuário do  _sistemas gerenciadores de bancos de dados_ (SGBD). O modelo lógico de um banco de dados relacional deve definir quais as tabelas contidas no banco e, para cada tabela, especificar também nomes das colunas, dentre outras características. 
+A modelagem do tipo lógica representa a estrutura de um _banco de dados_ (BD) em nível de abstração visto pelo usuário do _sistemas gerenciadores de bancos de dados_ (SGBD). O modelo lógico de um banco de dados relacional deve definir quais as tabelas contidas no banco e, para cada tabela, especificar também nomes das colunas, dentre outras características. 
 
-A modelagem lógica é geralmente resultado da conversão de uma modelagem conceitual, porém, é possível também iniciar o projet pelo projeto lógico, especialmente quando o projetista possui o conhecimento conceitual do projeto.
+A modelagem lógica é geralmente resultado da conversão de uma modelagem conceitual, porém, é possível também iniciar o projeto pelo projeto lógico, especialmente quando o projetista possui o conhecimento conceitual do projeto.
 
 ## Constraints
 
-_Constraints_ são um recurso usado para definir regras para os dados em uma tabela específica pa garantindo a precisão e confiabilidade da informação. Caso ocorra qualquer violação entre a restrição e a execução de determinada ação, a ação é abortada.
+_Constraints_ são um recurso usado para definir regras para os dados em uma tabela específica, garantindo a precisão e confiabilidade da informação. Caso ocorra qualquer violação entre a restrição e a execução de determinada ação, a ação é abortada.
 
 No **BR Modelo Web** as seguintes restrições de integridade estão disponíveis:
 
 | Nome | Descrição |
 | ---- | --------- |
 | **Chave primária** | Identifica unicamente cada registro em uma tabela. |
-| **Chave estrangeira** | Campo (ou coleção de campos) de uma tabela que referencia à chave primária de outra tabela. |
+| **Chave estrangeira** | Atributo (ou coleção de atributos) de uma tabela que referencia à chave primária de outra tabela. |
 | **Not null** | Garante que uma coluna não aceite valores nulos. |
 | **Unique** | Garante que todos os valores da coluna sejam únicos. |
 | **Default** | Define o valor padrão de uma coluna caso nenhum valor seja especificado. |
@@ -46,7 +46,7 @@ No **BR Modelo Web** as seguintes restrições de integridade estão disponívei
 
 Uma view é o conjunto de resultados de uma consulta armazenada nos dados. Ao contrário das tabelas base, comuns em um banco de dados relacional, uma view não faz parte do esquema físico. Como um conjunto de resultados, a view é uma tabela virtual computada ou agrupada dinamicamente a partir de dados no banco quando o acesso a essa view é solicitado.
 
-Views podem ser utilizadas para multiplos propósitos como por exemplo:
+Views podem ser utilizadas para múltiplos propósitos como por exemplo:
 
 - Ocultar detalhes
 - Reduzir complexidade do banco
