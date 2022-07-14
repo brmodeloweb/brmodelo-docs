@@ -20,7 +20,6 @@ No **BR Modelo Web** as seguintes restrições de integridade estão disponívei
 | **Check** | Especifica um predicado **P** (_check(p)_) que precisa ser satisfeito em cada tupla. |
 | **Auto increment** | Permite que um número único seja gerado automaticamente quando um novo registro é inserido na tabela. |
 
-!> Algumas **constraints** estão em desenvolvimento e econtram-se disponíveis apenas no [ambiente de testes](https://brmodelo-stage.herokuapp.com/#!/).
 
 ## Regras no uso de constraints
 
