@@ -16,3 +16,7 @@
 	- [Utilizando o zoom](canvas-navigation/README.md#utilizando-o-zoom)
 	- [Expandindo o canvas](canvas-navigation/README.md#expandindo-o-canvas)
 	- [Movendo livremente pelo canvas](canvas-navigation/README.md#movendo-livremente-pelo-canvas)
+- [Modelagem lógica](logical-model/README.md)
+	- [Incluindo Constraints](logical-model/README.md#incluindo-constraints)
+	- [Criando Views](logical-model/README.md#criando-views)
+	- [Convertendo para projeto físico](logical-model/README.md#convertendo-para-projeto-físico)
