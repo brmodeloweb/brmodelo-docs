@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/brmodeloweb/brmodelo-docs#readme",
   "dependencies": {
-    "docsify-cli": "^4.4.3"
+    "docsify-cli": "^4.12.2"
   }
 }
