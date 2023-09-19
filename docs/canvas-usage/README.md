@@ -41,10 +41,10 @@ Nessa sessão você encontrará mais detalhes sobre as ações básicas do canva
 Também é possível remover elementos utilizando o atalho de teclado.
 
 | Sistema Operacional | Remover elemento |
-| ------------------- | ------------- |
-| **MacOS** 		  | `⌘` + `Delete` |
-| **Windows**		  | `ctrl` + `Backspace` |
-| **Linux** 		  | `ctrl` + `Backspace` |
+| ------------------- | ---------------- |
+| **MacOS** 		  | `Delete`		 |
+| **Windows**		  | `Backspace` 	 |
+| **Linux** 		  | `Backspace` 	 |
 
 ## Alterando informações de um elemento
 
