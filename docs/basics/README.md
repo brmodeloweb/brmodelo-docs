@@ -55,10 +55,26 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
+## Compartilhar um modelo
+
+?> Ao compartilhar um modelo, qualquer pessoa na internet terá acesso a visualizar seu modelo porém não é possível editá-lo.
+
+1. Na tela delistagem de modelos ou na tela de edição de um modelo
+1. Com o mouse sobre o item que deseja compartilhar, selecione a opção **Compartilhar**
+1. Ao clicar, uma modal se abrirá. Nela, marque a caixa **Criar link público**
+1. O campo **URL** será preenchido automaticamente com o novo link público
+1. Use o botão **Copiar** para salvar a URL na sua área de transferência
+1. Clique em **Salvar**
+
+?> É necessário **Salvar** as alterações, caso contrário o link público não será publicado
+
+<video class="video-player" controls>
+	<source src="basics/assets/compartilhar-um-modelo.mp4" type="video/mp4">
+	Desculpe, seu navegador não suporta esse formato de vídeo.
+</video>
+
+?> Também é possivel compartilhar um modelo usando a mesma opção na barra e ferramentas
+
 ## Importar um modelo
-
-> Essa funcionalidade ainda está em desenvolvimento
-
-## Exportar um modelo
 
 > Essa funcionalidade ainda está em desenvolvimento
