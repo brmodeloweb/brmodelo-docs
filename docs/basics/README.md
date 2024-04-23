@@ -66,7 +66,7 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 1. Use o botão **Copiar** para salvar a URL na sua área de transferência
 1. Clique em **Salvar**
 
-?> É necessário **Salvar** as alterações, caso contrário o link público não será publicado
+?> É necessário **Salvar** as alterações, caso contrário o link público não estará disponível.
 
 <video class="video-player" controls>
 	<source src="basics/assets/compartilhar-um-modelo.mp4" type="video/mp4">
