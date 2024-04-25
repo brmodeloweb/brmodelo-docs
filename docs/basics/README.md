@@ -57,9 +57,9 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 
 ## Compartilhar um modelo
 
-?> Ao compartilhar um modelo, qualquer pessoa na internet terá acesso a visualizar seu modelo porém não é possível editá-lo.
+Ao compartilhar um modelo, qualquer pessoa na internet terá acesso a visualizá-lo porém não é possível editá-lo. 
 
-1. Na tela de listagem de modelos ou na tela de edição de um modelo
+1. Vá para tela de listagem de modelos
 1. Com o mouse sobre o item que deseja compartilhar, selecione a opção **Compartilhar**
 1. Ao clicar, uma modal se abrirá. Nela, marque a caixa **Criar link público**
 1. O campo **URL** será preenchido automaticamente com o novo link público
@@ -73,7 +73,9 @@ Nessa sessão você encontra exemplos de como executar as ações básicas para 
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
 
-?> Também é possivel compartilhar um modelo usando a mesma opção na barra e ferramentas
+Também é possível compartilhar um modelo durante sua edição usando a mesma opção localizada na barra e ferramentas.
+
+!> Ao selecionar a opção **Autorizar importação**, qualquer pessoa com o link público poderá fazer uma cópia do seu modelo usando a opção [Importar modelo](#importar-um-modelo).
 
 ## Importar um modelo
 
