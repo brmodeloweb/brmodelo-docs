@@ -95,3 +95,5 @@ Também é possível compartilhar um modelo durante sua edição usando a mesma 
 	<source src="basics/assets/importar-um-modelo.mp4" type="video/mp4">
 	Desculpe, seu navegador não suporta esse formato de vídeo.
 </video>
+
+Você pode testar o recurso importando esse modelo público: [Recursos Humanos](https://app.brmodeloweb.com/#!/publicview/662baad2109a88e43a085e8b)
