@@ -2,6 +2,22 @@
   --vp-c-brand-1: #3d9970;
   --vp-c-brand-2: #35875f;
   --vp-c-brand-3: #2e7a55;
+  --vp-layout-max-width: 1680px;
+}
+
+/* Coluna de conteúdo mais larga (o padrão do tema é 688px).
+   O !important é necessário para vencer o CSS scoped (data-v-*) do tema. */
+.VPDoc.has-aside .content-container {
+  max-width: 960px !important;
+}
+
+.VPDoc.has-aside .container {
+  max-width: 1280px !important;
+}
+
+.VPDoc:not(.has-aside) .content,
+.VPDoc:not(.has-aside) .content-container {
+  max-width: 960px !important;
 }
 
 .video-player {

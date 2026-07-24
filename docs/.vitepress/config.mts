@@ -59,6 +59,15 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://docs.brmodeloweb.com'
   },
+  markdown: {
+    container: {
+      tipLabel: 'DICA',
+      warningLabel: 'ATENÇÃO',
+      dangerLabel: 'CUIDADO',
+      infoLabel: 'INFO',
+      detailsLabel: 'Detalhes'
+    }
+  },
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/assets/favicon@2x.png', sizes: '62x62' }],
     ['script', {}, legacyHashRedirect],
@@ -73,15 +82,16 @@ export default defineConfig({
     logo: '/assets/br-modelo-web-typography.svg',
     siteTitle: false,
     nav: [
-      { text: 'Documentação', link: '/basics/criar-um-novo-modelo', activeMatch: '/' },
+      { text: 'Abrir o BR Modelo Web', link: 'https://app.brmodeloweb.com' },
       { text: 'BRModeloWeb.com', link: 'https://www.brmodeloweb.com' }
     ],
     sidebar: [
       { text: 'Bem vindo à documentação', link: '/' },
       {
         text: 'O básico',
-        link: '/basics/',
+        collapsed: false,
         items: [
+          { text: 'Visão geral', link: '/basics/' },
           { text: 'Criar um novo modelo', link: '/basics/criar-um-novo-modelo' },
           { text: 'Duplicar um modelo', link: '/basics/duplicar-um-modelo' },
           { text: 'Renomear um modelo', link: '/basics/renomear-um-modelo' },
@@ -92,8 +102,9 @@ export default defineConfig({
       },
       {
         text: 'Usando o canvas',
-        link: '/canvas-usage/',
+        collapsed: false,
         items: [
+          { text: 'Visão geral', link: '/canvas-usage/' },
           { text: 'Adicionando elementos', link: '/canvas-usage/adicionando-elementos' },
           { text: 'Renomeando elementos', link: '/canvas-usage/renomeando-elementos' },
           { text: 'Removendo elementos', link: '/canvas-usage/removendo-elementos' },
@@ -108,8 +119,9 @@ export default defineConfig({
       },
       {
         text: 'Navegando pelo canvas',
-        link: '/canvas-navigation/',
+        collapsed: false,
         items: [
+          { text: 'Visão geral', link: '/canvas-navigation/' },
           { text: 'Utilizando o zoom', link: '/canvas-navigation/utilizando-o-zoom' },
           { text: 'Expandindo o canvas', link: '/canvas-navigation/expandindo-o-canvas' },
           {
@@ -120,8 +132,9 @@ export default defineConfig({
       },
       {
         text: 'Modelagem lógica',
-        link: '/logical-model/',
+        collapsed: false,
         items: [
+          { text: 'Visão geral', link: '/logical-model/' },
           { text: 'Constraints', link: '/logical-model/constraints' },
           { text: 'Views', link: '/logical-model/views' },
           { text: 'Convertendo para projeto físico', link: '/logical-model/projeto-fisico' }
