@@ -88,7 +88,7 @@ export default defineConfig({
     siteTitle: false,
     nav: [
       { text: 'Abrir o brmodelo', link: 'https://app.brmodeloweb.com' },
-      { text: 'BRModeloWeb.com', link: 'https://www.brmodeloweb.com' }
+      { text: 'brmodeloWeb.com', link: 'https://www.brmodeloweb.com' }
     ],
     sidebar: [
       { text: 'Bem vindo à documentação', link: '/' },
