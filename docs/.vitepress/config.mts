@@ -170,10 +170,6 @@ export default defineConfig({
     lastUpdated: { text: 'Atualizado em' },
     darkModeSwitchLabel: 'Aparência',
     sidebarMenuLabel: 'Menu',
-    returnToTopLabel: 'Voltar ao topo',
-    editLink: {
-      pattern: 'https://github.com/brmodeloweb/brmodelo-docs/edit/main/docs/:path',
-      text: 'Edite essa página no GitHub'
-    }
+    returnToTopLabel: 'Voltar ao topo'
   }
 })
