@@ -106,3 +106,5 @@ dist
 ## System specific files
 .DS_Store
 .vscode
+# VitePress
+docs/.vitepress/cache

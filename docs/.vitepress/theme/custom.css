@@ -1,0 +1,82 @@
+:root {
+  --vp-c-brand-1: #3d9970;
+  --vp-c-brand-2: #35875f;
+  --vp-c-brand-3: #2e7a55;
+  --vp-c-brand-soft: rgba(61, 153, 112, 0.14);
+  /* 100% desativa a centralização do layout: o menu fica rente à borda
+     esquerda (sem o padding gigante em telas largas) e o conteúdo se
+     centraliza sozinho na área restante. */
+  --vp-layout-max-width: 100%;
+}
+
+/* Coluna de conteúdo mais larga (o padrão do tema é 688px).
+   O !important é necessário para vencer o CSS scoped (data-v-*) do tema. */
+.VPDoc.has-aside .content-container {
+  max-width: 960px !important;
+}
+
+.VPDoc.has-aside .container {
+  max-width: 1280px !important;
+}
+
+.VPDoc:not(.has-aside) .content,
+.VPDoc:not(.has-aside) .content-container {
+  max-width: 960px !important;
+}
+
+.video-player {
+  width: 100%;
+  max-width: 900px;
+  margin-top: 16px;
+  padding: 3px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+}
+
+/* Marca em texto no navbar */
+.VPNavBarTitle .title {
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: var(--vp-c-brand-1);
+}
+
+/* ---- Menu lateral ---- */
+
+/* Títulos de grupo: caps discretos para separar da hierarquia de links */
+.VPSidebarItem.level-0.collapsible > .item > .text {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--vp-c-text-2);
+}
+
+/* Linha-guia à esquerda dos itens de cada grupo */
+.VPSidebarItem.level-0.collapsible > .items {
+  margin-left: 1px;
+  padding-left: 12px;
+  border-left: 1px solid var(--vp-c-divider);
+}
+
+/* Links como "pills": hover e item ativo bem visíveis */
+.VPSidebarItem.level-1 > .item > .link {
+  display: block;
+  margin: 1px -8px;
+  padding: 3px 8px;
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
+}
+
+.VPSidebarItem.level-1 > .item > .link:hover {
+  background-color: var(--vp-c-default-soft);
+}
+
+.VPSidebarItem.level-1.is-active > .item > .link {
+  background-color: var(--vp-c-brand-soft);
+}
+
+.VPSidebarItem.level-1.is-active > .item > .link > .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
