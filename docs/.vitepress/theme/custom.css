@@ -2,6 +2,7 @@
   --vp-c-brand-1: #3d9970;
   --vp-c-brand-2: #35875f;
   --vp-c-brand-3: #2e7a55;
+  --vp-c-brand-soft: rgba(61, 153, 112, 0.14);
   --vp-layout-max-width: 1680px;
 }
 
@@ -31,4 +32,44 @@
 
 .VPNavBarTitle .logo {
   height: 28px;
+}
+
+/* ---- Menu lateral ---- */
+
+/* Títulos de grupo: caps discretos para separar da hierarquia de links */
+.VPSidebarItem.level-0.collapsible > .item > .text {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--vp-c-text-2);
+}
+
+/* Linha-guia à esquerda dos itens de cada grupo */
+.VPSidebarItem.level-0.collapsible > .items {
+  margin-left: 1px;
+  padding-left: 12px;
+  border-left: 1px solid var(--vp-c-divider);
+}
+
+/* Links como "pills": hover e item ativo bem visíveis */
+.VPSidebarItem.level-1 > .item > .link {
+  display: block;
+  margin: 1px -8px;
+  padding: 3px 8px;
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
+}
+
+.VPSidebarItem.level-1 > .item > .link:hover {
+  background-color: var(--vp-c-default-soft);
+}
+
+.VPSidebarItem.level-1.is-active > .item > .link {
+  background-color: var(--vp-c-brand-soft);
+}
+
+.VPSidebarItem.level-1.is-active > .item > .link > .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
 }
