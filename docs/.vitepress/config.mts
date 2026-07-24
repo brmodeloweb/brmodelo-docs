@@ -56,6 +56,11 @@ export default defineConfig({
     'Documentação oficial de uso do BR Modelo Web, ferramenta open source para modelagem de banco de dados entidade-relacionamento.',
   cleanUrls: true,
   lastUpdated: true,
+  // Sem o painel direito ("Nesta página") o conteúdo centraliza na área útil.
+  // Páginas longas podem reativá-lo com `aside: true` no frontmatter.
+  transformPageData(pageData) {
+    pageData.frontmatter.aside ??= false
+  },
   sitemap: {
     hostname: 'https://docs.brmodeloweb.com'
   },
