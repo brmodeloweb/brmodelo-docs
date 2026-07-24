@@ -1,6 +1,6 @@
 ---
 title: Excluir um modelo
-description: Como excluir definitivamente um modelo de banco de dados no BR Modelo Web e o que considerar antes de fazer isso.
+description: Como excluir definitivamente um modelo de banco de dados no brmodelo e o que considerar antes de fazer isso.
 ---
 
 # Excluir um modelo

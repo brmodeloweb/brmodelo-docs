@@ -1,6 +1,6 @@
 ---
 title: Renomear um modelo
-description: Como renomear um modelo de banco de dados já criado no BR Modelo Web.
+description: Como renomear um modelo de banco de dados já criado no brmodelo.
 ---
 
 # Renomear um modelo

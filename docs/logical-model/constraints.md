@@ -1,13 +1,13 @@
 ---
 title: Constraints
-description: Restrições de integridade disponíveis no BR Modelo Web, regras de uso e como incluir constraints nas colunas de uma tabela.
+description: Restrições de integridade disponíveis no brmodelo, regras de uso e como incluir constraints nas colunas de uma tabela.
 ---
 
 # Constraints
 
 _Constraints_ são um recurso usado para definir regras para os dados em uma tabela específica, garantindo a precisão e confiabilidade da informação. Caso ocorra qualquer violação entre a restrição e a execução de determinada ação, a ação é abortada.
 
-No **BR Modelo Web** as seguintes restrições de integridade estão disponíveis:
+No **brmodelo** as seguintes restrições de integridade estão disponíveis:
 
 | Nome | Descrição |
 | ---- | --------- |

@@ -1,6 +1,6 @@
 ---
 title: Usando o canvas
-description: Conheça as ações básicas do canvas do BR Modelo Web, a área de trabalho onde você cria modelagens lógicas e conceituais.
+description: Conheça as ações básicas do canvas do brmodelo, a área de trabalho onde você cria modelagens lógicas e conceituais.
 ---
 
 # Usando o canvas

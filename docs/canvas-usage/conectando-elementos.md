@@ -1,6 +1,6 @@
 ---
 title: Conectando elementos
-description: Como criar conexões entre entidades, atributos e relacionamentos no canvas do BR Modelo Web.
+description: Como criar conexões entre entidades, atributos e relacionamentos no canvas do brmodelo.
 ---
 
 # Conectando elementos

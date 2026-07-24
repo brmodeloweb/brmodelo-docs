@@ -51,9 +51,9 @@ const legacyHashRedirect = `;(function(){
 
 export default defineConfig({
   lang: 'pt-BR',
-  title: 'BR Modelo Web',
+  title: 'brmodelo',
   description:
-    'Documentação oficial de uso do BR Modelo Web, ferramenta open source para modelagem de banco de dados entidade-relacionamento.',
+    'Documentação oficial de uso do brmodelo, ferramenta open source para modelagem de banco de dados entidade-relacionamento.',
   cleanUrls: true,
   lastUpdated: true,
   // Sem o painel direito ("Nesta página") o conteúdo centraliza na área útil.
@@ -87,7 +87,7 @@ export default defineConfig({
     logo: '/assets/br-modelo-web-typography.svg',
     siteTitle: false,
     nav: [
-      { text: 'Abrir o BR Modelo Web', link: 'https://app.brmodeloweb.com' },
+      { text: 'Abrir o brmodelo', link: 'https://app.brmodeloweb.com' },
       { text: 'BRModeloWeb.com', link: 'https://www.brmodeloweb.com' }
     ],
     sidebar: [

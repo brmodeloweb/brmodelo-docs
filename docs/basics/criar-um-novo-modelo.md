@@ -1,6 +1,6 @@
 ---
 title: Criar um novo modelo
-description: Passo a passo de como criar um novo modelo lógico ou conceitual de banco de dados no BR Modelo Web.
+description: Passo a passo de como criar um novo modelo lógico ou conceitual de banco de dados no brmodelo.
 ---
 
 # Criar um novo modelo

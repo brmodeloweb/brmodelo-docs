@@ -1,11 +1,11 @@
 ---
 title: O básico
-description: Aprenda as ações básicas do BR Modelo Web, como criar, duplicar, renomear, excluir, compartilhar e importar modelos de banco de dados.
+description: Aprenda as ações básicas do brmodelo, como criar, duplicar, renomear, excluir, compartilhar e importar modelos de banco de dados.
 ---
 
 # O básico
 
-Nessa sessão você encontra exemplos de como executar as ações básicas para iniciar no BR Modelo Web.
+Nessa sessão você encontra exemplos de como executar as ações básicas para iniciar no brmodelo.
 
 - [Criar um novo modelo](/basics/criar-um-novo-modelo)
 - [Duplicar um modelo](/basics/duplicar-um-modelo)

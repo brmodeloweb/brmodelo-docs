@@ -1,6 +1,6 @@
 ---
 title: Alterando informações de um elemento
-description: Como editar as propriedades de um elemento selecionado no canvas do BR Modelo Web pelo painel de propriedades.
+description: Como editar as propriedades de um elemento selecionado no canvas do brmodelo pelo painel de propriedades.
 ---
 
 # Alterando informações de um elemento

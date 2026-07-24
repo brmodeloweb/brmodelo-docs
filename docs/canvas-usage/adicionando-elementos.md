@@ -1,6 +1,6 @@
 ---
 title: Adicionando elementos
-description: Como adicionar entidades, atributos e outros elementos ao canvas de modelagem do BR Modelo Web.
+description: Como adicionar entidades, atributos e outros elementos ao canvas de modelagem do brmodelo.
 ---
 
 # Adicionando elementos

@@ -1,6 +1,6 @@
 ---
 title: Modelagem lógica
-description: Entenda o que é a modelagem lógica de banco de dados no BR Modelo Web e como trabalhar com constraints, views e projeto físico.
+description: Entenda o que é a modelagem lógica de banco de dados no brmodelo e como trabalhar com constraints, views e projeto físico.
 ---
 
 # Modelagem lógica

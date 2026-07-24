@@ -1,6 +1,6 @@
 ---
 title: Removendo elementos
-description: Como remover elementos do canvas do BR Modelo Web pelo menu contextual ou por atalhos de teclado.
+description: Como remover elementos do canvas do brmodelo pelo menu contextual ou por atalhos de teclado.
 ---
 
 # Removendo elementos

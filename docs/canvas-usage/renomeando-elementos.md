@@ -1,6 +1,6 @@
 ---
 title: Renomeando elementos
-description: Como renomear elementos da sua modelagem no BR Modelo Web usando o painel de propriedades.
+description: Como renomear elementos da sua modelagem no brmodelo usando o painel de propriedades.
 ---
 
 # Renomeando elementos

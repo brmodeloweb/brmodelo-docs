@@ -1,6 +1,6 @@
 ---
 title: Convertendo para projeto físico
-description: Como gerar o script SQL do seu modelo lógico no BR Modelo Web e converter a modelagem para projeto físico MySQL.
+description: Como gerar o script SQL do seu modelo lógico no brmodelo e converter a modelagem para projeto físico MySQL.
 ---
 
 # Convertendo para projeto físico

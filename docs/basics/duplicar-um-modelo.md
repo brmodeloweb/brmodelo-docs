@@ -1,6 +1,6 @@
 ---
 title: Duplicar um modelo
-description: Como duplicar um modelo de banco de dados existente no BR Modelo Web em poucos cliques.
+description: Como duplicar um modelo de banco de dados existente no brmodelo em poucos cliques.
 ---
 
 # Duplicar um modelo

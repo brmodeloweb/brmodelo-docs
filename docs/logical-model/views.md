@@ -1,6 +1,6 @@
 ---
 title: Views
-description: O que são views, como criá-las no BR Modelo Web e como adicionar query expressions e joins entre tabelas.
+description: O que são views, como criá-las no brmodelo e como adicionar query expressions e joins entre tabelas.
 ---
 
 # Views

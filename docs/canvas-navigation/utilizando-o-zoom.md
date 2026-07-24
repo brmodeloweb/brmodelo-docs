@@ -1,6 +1,6 @@
 ---
 title: Utilizando o zoom
-description: Como aumentar e diminuir o zoom no canvas do BR Modelo Web pela barra de utilidades ou por atalhos de teclado.
+description: Como aumentar e diminuir o zoom no canvas do brmodelo pela barra de utilidades ou por atalhos de teclado.
 ---
 
 # Utilizando o zoom

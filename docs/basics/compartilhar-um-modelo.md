@@ -1,6 +1,6 @@
 ---
 title: Compartilhar um modelo
-description: Como gerar um link público para compartilhar a visualização de um modelo de banco de dados criado no BR Modelo Web.
+description: Como gerar um link público para compartilhar a visualização de um modelo de banco de dados criado no brmodelo.
 ---
 
 # Compartilhar um modelo

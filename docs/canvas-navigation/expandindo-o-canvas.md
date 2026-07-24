@@ -1,6 +1,6 @@
 ---
 title: Expandindo o canvas
-description: Como expandir automaticamente o canvas do BR Modelo Web para acomodar modelagens maiores.
+description: Como expandir automaticamente o canvas do brmodelo para acomodar modelagens maiores.
 ---
 
 # Expandindo o canvas

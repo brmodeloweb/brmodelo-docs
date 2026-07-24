@@ -1,6 +1,6 @@
 ---
 title: Navegando pelo canvas
-description: Aprenda a usar zoom, expandir e navegar livremente pelo canvas de modelagem do BR Modelo Web.
+description: Aprenda a usar zoom, expandir e navegar livremente pelo canvas de modelagem do brmodelo.
 ---
 
 # Navegando pelo canvas

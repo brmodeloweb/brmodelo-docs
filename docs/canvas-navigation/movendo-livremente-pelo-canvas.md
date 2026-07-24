@@ -1,6 +1,6 @@
 ---
 title: Movendo livremente pelo canvas
-description: Como navegar livremente pelo canvas do BR Modelo Web usando scroll ou a barra de espaço com o mouse.
+description: Como navegar livremente pelo canvas do brmodelo usando scroll ou a barra de espaço com o mouse.
 ---
 
 # Movendo livremente pelo canvas

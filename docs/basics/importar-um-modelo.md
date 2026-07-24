@@ -1,6 +1,6 @@
 ---
 title: Importar um modelo
-description: Como importar um modelo público de outro usuário do BR Modelo Web usando uma URL compartilhada.
+description: Como importar um modelo público de outro usuário do brmodelo usando uma URL compartilhada.
 ---
 
 # Importar um modelo

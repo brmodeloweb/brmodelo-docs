@@ -1,6 +1,6 @@
 ---
 title: Copiando e colando elementos
-description: Como copiar e colar elementos no canvas do BR Modelo Web usando atalhos de teclado no Mac, Windows e Linux.
+description: Como copiar e colar elementos no canvas do brmodelo usando atalhos de teclado no Mac, Windows e Linux.
 ---
 
 # Copiando e colando elementos
