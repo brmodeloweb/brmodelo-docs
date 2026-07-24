@@ -3,7 +3,10 @@
   --vp-c-brand-2: #35875f;
   --vp-c-brand-3: #2e7a55;
   --vp-c-brand-soft: rgba(61, 153, 112, 0.14);
-  --vp-layout-max-width: 1680px;
+  /* 100% desativa a centralização do layout: o menu fica rente à borda
+     esquerda (sem o padding gigante em telas largas) e o conteúdo se
+     centraliza sozinho na área restante. */
+  --vp-layout-max-width: 100%;
 }
 
 /* Coluna de conteúdo mais larga (o padrão do tema é 688px).
