@@ -84,11 +84,10 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
-    logo: '/assets/br-modelo-web-typography.svg',
-    siteTitle: false,
+    siteTitle: 'BRMW',
     nav: [
       { text: 'Abrir o brmodelo', link: 'https://app.brmodeloweb.com' },
-      { text: 'brmodeloWeb.com', link: 'https://www.brmodeloweb.com' }
+      { text: 'brmodeloweb.com', link: 'https://www.brmodeloweb.com' }
     ],
     sidebar: [
       { text: 'Bem vindo à documentação', link: '/' },

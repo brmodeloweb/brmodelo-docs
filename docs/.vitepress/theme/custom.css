@@ -33,8 +33,12 @@
   border-radius: 4px;
 }
 
-.VPNavBarTitle .logo {
-  height: 28px;
+/* Marca em texto no navbar */
+.VPNavBarTitle .title {
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: var(--vp-c-brand-1);
 }
 
 /* ---- Menu lateral ---- */
