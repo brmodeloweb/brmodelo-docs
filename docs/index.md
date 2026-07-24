@@ -13,7 +13,7 @@ O [brmodelo](https://www.brmodeloweb.com) é um projeto **Open Source** para mod
 
 Por favor, tenha em mente que o [brmodelo](https://www.brmodeloweb.com) assim como essa documentação são projetos vivos que estão constantemente crescendo e sofrendo alterações. Por conta disso talvez você possa se deparar com partes do conteúdo desatualizado ou mesmo não encontrar toda a informação que precisa aqui.
 
-Como usuário do [brmodelo](https://www.brmodeloweb.com) você pode colaborar identificando essas falhas e reportando para o time criando uma [issue no nosso repositório do GitHub](https://github.com/brmodeloweb/brmodelo-docs/issues/new). Se você quiser ir além e souber como criar um _pull request_, você está mais do que convidado para colaborar corrigindo ou adicionando conteúdo aqui.
+Como usuário do [brmodelo](https://www.brmodeloweb.com) você pode colaborar identificando essas falhas e reportando para o time criando uma [issue no nosso repositório do GitHub](https://github.com/brmodeloweb/brmodelo-app). Se você quiser ir além e souber como criar um _pull request_, você está mais do que convidado para colaborar corrigindo ou adicionando conteúdo aqui.
 
 ## Por onde começar
 
