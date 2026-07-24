@@ -1,0 +1,18 @@
+:root {
+  --vp-c-brand-1: #3d9970;
+  --vp-c-brand-2: #35875f;
+  --vp-c-brand-3: #2e7a55;
+}
+
+.video-player {
+  width: 100%;
+  max-width: 900px;
+  margin-top: 16px;
+  padding: 3px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+}
+
+.VPNavBarTitle .logo {
+  height: 28px;
+}
